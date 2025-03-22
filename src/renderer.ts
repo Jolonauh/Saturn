@@ -28,4 +28,10 @@
 
 import './index.css';
 
+document.getElementById("loadEpub")?.addEventListener("click", async () => {
+    const metadata = await (window as any).epubAPI.openEpub();
+    document.getElementById("output")!.textContent = JSON.stringify(metadata, null, 2);
+});
+
+
 console.log('👋 This message is being logged by "renderer.ts", included via Vite');

@@ -1,6 +1,7 @@
-import { app, BrowserWindow } from 'electron';
+import { app, BrowserWindow, dialog, ipcMain } from "electron";
 import path from 'node:path';
 import started from 'electron-squirrel-startup';
+import { extractEPUB, EPUBMetadata } from "./epub_reader";
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (started) {
@@ -14,6 +15,8 @@ const createWindow = () => {
     height: 600,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
+      contextIsolation: true,  // ✅ Required for `contextBridge`
+      nodeIntegration: false,  // ✅ Keep this false for security
     },
   });
 
@@ -52,3 +55,15 @@ app.on('activate', () => {
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and import them here.
+
+// Handle file selection & extraction
+ipcMain.handle("open-epub", async (): Promise<EPUBMetadata | null> => {
+  const { filePaths } = await dialog.showOpenDialog({
+      filters: [{ name: "EPUB Books", extensions: ["epub"] }],
+      properties: ["openFile"],
+  });
+
+  if (filePaths.length === 0) return null;
+
+  return extractEPUB(filePaths[0]);
+});
