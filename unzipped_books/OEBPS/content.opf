@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Dungeon Crawler Carl</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dinniman, Matt">Matt Dinniman</dc:creator>
+    <dc:identifier id="uid">2100906924</dc:identifier>
+    <dc:publisher>Dandy House</dc:publisher>
+    <dc:date>2020-10-02T04:00:00+00:00</dc:date>
+    <dc:rights>Copyright 2020 Matt Dinniman. All rights reserved.</dc:rights>
+    <dc:subject>LitRPG</dc:subject>
+    <dc:subject>Apocalyptic</dc:subject>
+    <dc:subject>Humor</dc:subject>
+    <dc:description>&lt;div&gt;
+      &lt;p style="font-weight: 600"&gt;The apocalypse &lt;em&gt;will&lt;/em&gt; be
+      televised!&lt;/p&gt;
+      &lt;p&gt;A man. His ex-girlfriend's cat. A sadistic game show unlike anything in the universe:
+      a dungeon crawl where survival depends on killing your prey in the most entertaining way
+      possible. &lt;/p&gt;
+      &lt;p&gt;In a flash, every human-erected construction on Earth—from Buckingham Palace to the
+      tiniest of sheds—collapses in a heap, sinking into the ground. &lt;/p&gt;
+      &lt;p&gt;The buildings and all the people inside have all been atomized and transformed into
+      the dungeon: an 18-level labyrinth filled with traps, monsters, and loot. A dungeon so
+      enormous, it circles the entire globe. &lt;/p&gt;
+      &lt;p&gt;Only a few dare venture inside. But once you're in, you can't get out. And what's
+      worse, each level has a time limit. You have but days to find a staircase to the next level
+      down, or it's game over. In this game, it's not about your strength or your dexterity. It's
+      about your followers, your views. Your clout. It's about building an audience and killing
+      those goblins with style. &lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;You can't just survive here. You gotta survive big.&lt;/strong&gt;
+      &lt;/p&gt;
+      &lt;p&gt;You gotta fight with vigor, with excitement. You gotta make them stand up and cheer.
+      And if you do have that "it" factor, you may just find yourself with a following. That's the
+      only way to truly survive in this game—with the help of the loot boxes dropped upon you by the
+      generous benefactors watching from across the galaxy. &lt;/p&gt;
+      &lt;p&gt;They call it &lt;em&gt;Dungeon Crawler World&lt;/em&gt;. But for Carl, it's anything
+      but a game.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (5.0.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">bec95778-118c-4884-b687-19a0afd91e45</dc:identifier>
+    <!-- THE FOLLOWINGS ARE REQUIRED TO EDIT IDS MANUALLY
+<meta scheme="marc:relators" property="role" refines="#creator">aut</meta>
+<meta property="file-as" refines="#creator">Dinniman, Matt</meta>
+<meta scheme="xsd:string" property="identifier-type" refines="#BookID">uuid</meta>
+-->
+    <!-- Extra MetaData from RESC
+<meta property="dcterms:modified">2020-09-28T02:59:01Z</meta>
+<meta property="ibooks:specified-fonts">true</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityFeature">readingOrder</meta>
+<meta property="schema:accessibilitySummary">The structure and markup of this publication follow
+    WCAG guidelines. Images used in this publication have not been verified to follow these
+    guidelines. This summary has been automatically generated based on the content of this
+    publication.</meta>
+<meta content="Vellum" name="generator"/>
+<meta content="2.7.2" name="vellum-version"/>
+<meta content="Kindle" name="vellum-target-platform"/>
+-->
+    <meta name="cover" content="cover_img" />
+    <meta name="output encoding" content="utf-8" />
+    <meta name="primary-writing-mode" content="horizontal-lr" />
+    <!-- BEGIN INFORMATION ONLY 
+<meta name="Cover ThumbNail Image" content="Images/image00335.jpeg" />
+<meta name="Drm Ebookbase Book Id" content="0000035556958" />
+<meta name="ASIN" content="B08BKGYQXW" />
+<meta name="Creator-Build-Number" content="0" />
+<meta name="Creator-Minor-Version" content="9" />
+<meta name="Ownership-Type_(hex)" content="00" />
+<meta name="Creator-Software" content="201" />
+<meta name="547 (hex)" content="496e4d656d6f7279" />
+<meta name="StartOffset" content="6813" />
+<meta name="Compression-Upgraded" content="Source-Target:c1-c2 KT_Version:2.9 Build:0000-kdevbld"
+    />
+<meta name="Text-to-Speech-Disabled" content="0" />
+<meta name="Content-Language-Tag" content="en" />
+<meta name="Updated_Title" content="Dungeon Crawler Carl: A LitRPG/Gamelit Adventure" />
+<meta name="Unknown_(403)_(hex)" content="00" />
+<meta name="Amazon_Creator_Info" content="kjw" />
+<meta name="Mobi8-Boundary-Section" content="299" />
+<meta name="Embedded-Record-Count" content="60" />
+<meta name="Rental-Expiration-Time" content="0000000000000000" />
+<meta name="Tamper-Proof-Keys_(hex)"
+    content="01000000d000000001940000000191000000019500000001960000000197" />
+<meta name="CDEContentKey" content="B08BKGYQXW" />
+<meta name="Unknown_(407)_(hex)" content="0000000000000000" />
+<meta name="Clipping-Limit" content="100" />
+<meta name="Metadata-Record-Offset" content="4294967295" />
+<meta name="548 (hex)" content="496e4d656d6f7279" />
+<meta name="sample" content="0" />
+<meta name="Creator-Major-Version" content="2" />
+<meta name="Creator-Build-Tag" content="0721-dedaf5" />
+<meta name="override-kindle-fonts" content="false" />
+<meta name="cdeType" content="EBOK" />
+<meta name="Font-Signature_(hex)"
+    content="0300000000000000000000000000008000200000000000000000000000000000edecbef401f301ed01e001fa4094409340994098409c409d40a6"
+    />
+<meta name="Watermark_(hex)"
+    content="6174763a6b696e3a323a7a7135687a7a5062515259706c755055743543587a547a4d7458696565694f766d474854324f554e58617a4a474e64694e64654a774459464d3866676a684e727750786c694f5831456943424e3869686b45306b4f426136696b7567796f6a4e397a77395a576e4155444d4f4b4c74512f77433553655937617a356f716b794e76552b68637270417a4f696b526d6e5056683257723854347479477a617261344466382f6931496874576f357753702b4368504d463055722b6a5233493665773a4173325153536e4679453557444e4746576a7744494955345767513d"
+    />
+<meta name="Container_Id" content="YSbO" />
+<meta name="HasFakeCover" content="0" />
+<meta name="MetadataResourceURI" content="kindle:embed:001R" />
+<meta name="HD-Media-Containers-Info" content="2400x3840:0-60|" />
+END INFORMATION ONLY -->
+    <meta name="calibre:title_sort" content="Dungeon Crawler Carl" />
+    <meta name="calibre:series" content="Dungeon Crawler Carl" />
+    <meta name="calibre:series_index" content="1.0" />
+    <meta name="calibre:author_link_map" content="{&quot;Matt Dinniman&quot;: &quot;&quot;}" />
+    <meta name="calibre:user_metadata:#mstr_fmt"
+      content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Master&quot;, &quot;search_terms&quot;: [&quot;#mstr_fmt&quot;], &quot;label&quot;: &quot;mstr_fmt&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;description&quot;: &quot;Master Format&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+  </metadata>
+  <manifest>
+    <item id="inserted" media-type="application/xhtml+xml" href="Text/cover_page.xhtml" />
+    <item id="x_title-page-xhtml" media-type="application/xhtml+xml" href="Text/part0000.xhtml" />
+    <item id="x_copyright-xhtml" media-type="application/xhtml+xml" href="Text/part0001.xhtml" />
+    <item id="x_dedication-xhtml" media-type="application/xhtml+xml" href="Text/part0002.xhtml" />
+    <item id="x_epigraph-xhtml" media-type="application/xhtml+xml" href="Text/part0003.xhtml" />
+    <item id="x_chapter-001-xhtml" media-type="application/xhtml+xml" href="Text/part0004.xhtml" />
+    <item id="x_part-001-xhtml" media-type="application/xhtml+xml" href="Text/part0005.xhtml" />
+    <item id="x_chapter-002-xhtml" media-type="application/xhtml+xml" href="Text/part0006.xhtml" />
+    <item id="x_chapter-003-xhtml" media-type="application/xhtml+xml" href="Text/part0007.xhtml" />
+    <item id="x_chapter-004-xhtml" media-type="application/xhtml+xml" href="Text/part0008.xhtml" />
+    <item id="x_chapter-005-xhtml" media-type="application/xhtml+xml" href="Text/part0009.xhtml" />
+    <item id="x_chapter-006-xhtml" media-type="application/xhtml+xml" href="Text/part0010.xhtml" />
+    <item id="x_chapter-007-xhtml" media-type="application/xhtml+xml" href="Text/part0011.xhtml" />
+    <item id="x_chapter-008-xhtml" media-type="application/xhtml+xml" href="Text/part0012.xhtml" />
+    <item id="x_chapter-009-xhtml" media-type="application/xhtml+xml" href="Text/part0013.xhtml" />
+    <item id="x_chapter-010-xhtml" media-type="application/xhtml+xml" href="Text/part0014.xhtml" />
+    <item id="x_chapter-011-xhtml" media-type="application/xhtml+xml" href="Text/part0015.xhtml" />
+    <item id="x_chapter-012-xhtml" media-type="application/xhtml+xml" href="Text/part0016.xhtml" />
+    <item id="x_chapter-013-xhtml" media-type="application/xhtml+xml" href="Text/part0017.xhtml" />
+    <item id="x_chapter-014-xhtml" media-type="application/xhtml+xml" href="Text/part0018.xhtml" />
+    <item id="x_chapter-015-xhtml" media-type="application/xhtml+xml" href="Text/part0019.xhtml" />
+    <item id="x_chapter-016-xhtml" media-type="application/xhtml+xml" href="Text/part0020.xhtml" />
+    <item id="x_chapter-017-xhtml" media-type="application/xhtml+xml" href="Text/part0021.xhtml" />
+    <item id="x_chapter-018-xhtml" media-type="application/xhtml+xml" href="Text/part0022.xhtml" />
+    <item id="x_chapter-019-xhtml" media-type="application/xhtml+xml" href="Text/part0023.xhtml" />
+    <item id="x_chapter-020-xhtml" media-type="application/xhtml+xml" href="Text/part0024.xhtml" />
+    <item id="x_chapter-021-xhtml" media-type="application/xhtml+xml" href="Text/part0025.xhtml" />
+    <item id="x_chapter-022-xhtml" media-type="application/xhtml+xml" href="Text/part0026.xhtml" />
+    <item id="x_chapter-023-xhtml" media-type="application/xhtml+xml" href="Text/part0027.xhtml" />
+    <item id="x_chapter-024-xhtml" media-type="application/xhtml+xml" href="Text/part0028.xhtml" />
+    <item id="x_chapter-025-xhtml" media-type="application/xhtml+xml" href="Text/part0029.xhtml" />
+    <item id="x_chapter-026-xhtml" media-type="application/xhtml+xml" href="Text/part0030.xhtml" />
+    <item id="x_chapter-027-xhtml" media-type="application/xhtml+xml" href="Text/part0031.xhtml" />
+    <item id="x_part-002-xhtml" media-type="application/xhtml+xml" href="Text/part0032.xhtml" />
+    <item id="x_chapter-028-xhtml" media-type="application/xhtml+xml" href="Text/part0033.xhtml" />
+    <item id="x_chapter-029-xhtml" media-type="application/xhtml+xml" href="Text/part0034.xhtml" />
+    <item id="x_chapter-030-xhtml" media-type="application/xhtml+xml" href="Text/part0035.xhtml" />
+    <item id="x_chapter-031-xhtml" media-type="application/xhtml+xml" href="Text/part0036.xhtml" />
+    <item id="x_chapter-032-xhtml" media-type="application/xhtml+xml" href="Text/part0037.xhtml" />
+    <item id="x_chapter-033-xhtml" media-type="application/xhtml+xml" href="Text/part0038.xhtml" />
+    <item id="x_chapter-034-xhtml" media-type="application/xhtml+xml" href="Text/part0039.xhtml" />
+    <item id="x_chapter-035-xhtml" media-type="application/xhtml+xml" href="Text/part0040.xhtml" />
+    <item id="x_chapter-036-xhtml" media-type="application/xhtml+xml" href="Text/part0041.xhtml" />
+    <item id="x_chapter-037-xhtml" media-type="application/xhtml+xml" href="Text/part0042.xhtml" />
+    <item id="x_chapter-038-xhtml" media-type="application/xhtml+xml" href="Text/part0043.xhtml" />
+    <item id="x_chapter-039-xhtml" media-type="application/xhtml+xml" href="Text/part0044.xhtml" />
+    <item id="x_chapter-040-xhtml" media-type="application/xhtml+xml" href="Text/part0045.xhtml" />
+    <item id="x_chapter-041-xhtml" media-type="application/xhtml+xml" href="Text/part0046.xhtml" />
+    <item id="x_chapter-042-xhtml" media-type="application/xhtml+xml" href="Text/part0047.xhtml" />
+    <item id="x_chapter-043-xhtml" media-type="application/xhtml+xml" href="Text/part0048.xhtml" />
+    <item id="x_chapter-044-xhtml" media-type="application/xhtml+xml" href="Text/part0049.xhtml" />
+    <item id="x_chapter-045-xhtml" media-type="application/xhtml+xml" href="Text/part0050.xhtml" />
+    <item id="x_chapter-046-xhtml" media-type="application/xhtml+xml" href="Text/part0051.xhtml" />
+    <item id="x_chapter-047-xhtml" media-type="application/xhtml+xml" href="Text/part0052.xhtml" />
+    <item id="x_epilogue-xhtml" media-type="application/xhtml+xml" href="Text/part0053.xhtml" />
+    <item id="x_its-over-yo-xhtml" media-type="application/xhtml+xml" href="Text/part0054.xhtml" />
+    <item id="x_about-the-author-xhtml" media-type="application/xhtml+xml"
+      href="Text/part0055.xhtml" />
+    <item id="x_mailing-list-patreon-xhtml" media-type="application/xhtml+xml"
+      href="Text/part0056.xhtml" />
+    <item id="x_also-by-matt-dinniman-xhtml" media-type="application/xhtml+xml"
+      href="Text/part0057.xhtml" />
+    <item
+      id="x_the-page-where-we-tout-facebook-groups-so-they-let-us-spam-them-about-this-book-xhtml"
+      media-type="application/xhtml+xml" href="Text/part0058.xhtml" />
+    <item id="x_one-more-xhtml" media-type="application/xhtml+xml" href="Text/part0059.xhtml" />
+    <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+    <item id="item61" media-type="text/css" href="Styles/style0001.css" />
+    <item id="item62" media-type="text/css" href="Styles/style0002.css" />
+    <item id="cover_img" media-type="image/jpeg" href="Images/cover00333.jpeg" />
+    <item id="item68" media-type="image/jpeg" href="Images/image00277.jpeg" />
+    <item id="item69" media-type="image/jpeg" href="Images/image00278.jpeg" />
+    <item id="item70" media-type="image/jpeg" href="Images/image00279.jpeg" />
+    <item id="item71" media-type="image/jpeg" href="Images/image00280.jpeg" />
+    <item id="item72" media-type="image/jpeg" href="Images/image00281.jpeg" />
+    <item id="item73" media-type="image/jpeg" href="Images/image00282.jpeg" />
+    <item id="item74" media-type="image/jpeg" href="Images/image00283.jpeg" />
+    <item id="item75" media-type="image/jpeg" href="Images/image00284.jpeg" />
+    <item id="item76" media-type="image/jpeg" href="Images/image00285.jpeg" />
+    <item id="item77" media-type="image/jpeg" href="Images/image00286.jpeg" />
+    <item id="item78" media-type="image/jpeg" href="Images/image00287.jpeg" />
+    <item id="item79" media-type="image/jpeg" href="Images/image00288.jpeg" />
+    <item id="item80" media-type="image/jpeg" href="Images/image00289.jpeg" />
+    <item id="item81" media-type="image/jpeg" href="Images/image00290.jpeg" />
+    <item id="item82" media-type="image/jpeg" href="Images/image00291.jpeg" />
+    <item id="item83" media-type="image/jpeg" href="Images/image00292.jpeg" />
+    <item id="item84" media-type="image/jpeg" href="Images/image00293.jpeg" />
+    <item id="item85" media-type="image/jpeg" href="Images/image00294.jpeg" />
+    <item id="item86" media-type="image/jpeg" href="Images/image00295.jpeg" />
+    <item id="item87" media-type="image/jpeg" href="Images/image00296.jpeg" />
+    <item id="item88" media-type="image/jpeg" href="Images/image00297.jpeg" />
+    <item id="item89" media-type="image/jpeg" href="Images/image00298.jpeg" />
+    <item id="item90" media-type="image/jpeg" href="Images/image00299.jpeg" />
+    <item id="item91" media-type="image/jpeg" href="Images/image00300.jpeg" />
+    <item id="item92" media-type="image/jpeg" href="Images/image00301.jpeg" />
+    <item id="item93" media-type="image/jpeg" href="Images/image00302.jpeg" />
+    <item id="item94" media-type="image/jpeg" href="Images/image00303.jpeg" />
+    <item id="item95" media-type="image/jpeg" href="Images/image00304.jpeg" />
+    <item id="item96" media-type="image/jpeg" href="Images/image00305.jpeg" />
+    <item id="item97" media-type="image/jpeg" href="Images/image00306.jpeg" />
+    <item id="item98" media-type="image/jpeg" href="Images/image00307.jpeg" />
+    <item id="item99" media-type="image/jpeg" href="Images/image00308.jpeg" />
+    <item id="item100" media-type="image/jpeg" href="Images/image00309.jpeg" />
+    <item id="item101" media-type="image/jpeg" href="Images/image00310.jpeg" />
+    <item id="item102" media-type="image/jpeg" href="Images/image00311.jpeg" />
+    <item id="item103" media-type="image/jpeg" href="Images/image00312.jpeg" />
+    <item id="item104" media-type="image/jpeg" href="Images/image00313.jpeg" />
+    <item id="item105" media-type="image/jpeg" href="Images/image00314.jpeg" />
+    <item id="item106" media-type="image/jpeg" href="Images/image00315.jpeg" />
+    <item id="item107" media-type="image/jpeg" href="Images/image00316.jpeg" />
+    <item id="item108" media-type="image/jpeg" href="Images/image00317.jpeg" />
+    <item id="item109" media-type="image/jpeg" href="Images/image00318.jpeg" />
+    <item id="item110" media-type="image/jpeg" href="Images/image00319.jpeg" />
+    <item id="item111" media-type="image/jpeg" href="Images/image00320.jpeg" />
+    <item id="item112" media-type="image/jpeg" href="Images/image00321.jpeg" />
+    <item id="item113" media-type="image/jpeg" href="Images/image00322.jpeg" />
+    <item id="item114" media-type="image/jpeg" href="Images/image00323.jpeg" />
+    <item id="item115" media-type="image/jpeg" href="Images/image00324.jpeg" />
+    <item id="item116" media-type="image/jpeg" href="Images/image00325.jpeg" />
+    <item id="item117" media-type="image/jpeg" href="Images/image00326.jpeg" />
+    <item id="item118" media-type="image/jpeg" href="Images/image00327.jpeg" />
+    <item id="item119" media-type="image/jpeg" href="Images/image00328.jpeg" />
+    <item id="item120" media-type="image/jpeg" href="Images/image00329.jpeg" />
+    <item id="item121" media-type="image/jpeg" href="Images/image00330.jpeg" />
+    <item id="item122" media-type="image/jpeg" href="Images/image00331.jpeg" />
+    <item id="item123" media-type="image/jpeg" href="Images/image00332.jpeg" />
+    <item id="item63" media-type="image/svg+xml" href="Images/svgimg0003.svg" />
+    <item id="item64" media-type="image/svg+xml" href="Images/svgimg0004.svg" />
+    <item id="item65" media-type="image/svg+xml" href="Images/svgimg0005.svg" />
+    <item id="item66" media-type="image/svg+xml" href="Images/svgimg0006.svg" />
+    <item id="item67" media-type="application/x-font-ttf" href="Fonts/font00276.ttf" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="inserted" linear="no" />
+    <itemref idref="x_title-page-xhtml" />
+    <itemref idref="x_copyright-xhtml" />
+    <itemref idref="x_dedication-xhtml" />
+    <itemref idref="x_epigraph-xhtml" />
+    <itemref idref="x_chapter-001-xhtml" />
+    <itemref idref="x_part-001-xhtml" />
+    <itemref idref="x_chapter-002-xhtml" />
+    <itemref idref="x_chapter-003-xhtml" />
+    <itemref idref="x_chapter-004-xhtml" />
+    <itemref idref="x_chapter-005-xhtml" />
+    <itemref idref="x_chapter-006-xhtml" />
+    <itemref idref="x_chapter-007-xhtml" />
+    <itemref idref="x_chapter-008-xhtml" />
+    <itemref idref="x_chapter-009-xhtml" />
+    <itemref idref="x_chapter-010-xhtml" />
+    <itemref idref="x_chapter-011-xhtml" />
+    <itemref idref="x_chapter-012-xhtml" />
+    <itemref idref="x_chapter-013-xhtml" />
+    <itemref idref="x_chapter-014-xhtml" />
+    <itemref idref="x_chapter-015-xhtml" />
+    <itemref idref="x_chapter-016-xhtml" />
+    <itemref idref="x_chapter-017-xhtml" />
+    <itemref idref="x_chapter-018-xhtml" />
+    <itemref idref="x_chapter-019-xhtml" />
+    <itemref idref="x_chapter-020-xhtml" />
+    <itemref idref="x_chapter-021-xhtml" />
+    <itemref idref="x_chapter-022-xhtml" />
+    <itemref idref="x_chapter-023-xhtml" />
+    <itemref idref="x_chapter-024-xhtml" />
+    <itemref idref="x_chapter-025-xhtml" />
+    <itemref idref="x_chapter-026-xhtml" />
+    <itemref idref="x_chapter-027-xhtml" />
+    <itemref idref="x_part-002-xhtml" />
+    <itemref idref="x_chapter-028-xhtml" />
+    <itemref idref="x_chapter-029-xhtml" />
+    <itemref idref="x_chapter-030-xhtml" />
+    <itemref idref="x_chapter-031-xhtml" />
+    <itemref idref="x_chapter-032-xhtml" />
+    <itemref idref="x_chapter-033-xhtml" />
+    <itemref idref="x_chapter-034-xhtml" />
+    <itemref idref="x_chapter-035-xhtml" />
+    <itemref idref="x_chapter-036-xhtml" />
+    <itemref idref="x_chapter-037-xhtml" />
+    <itemref idref="x_chapter-038-xhtml" />
+    <itemref idref="x_chapter-039-xhtml" />
+    <itemref idref="x_chapter-040-xhtml" />
+    <itemref idref="x_chapter-041-xhtml" />
+    <itemref idref="x_chapter-042-xhtml" />
+    <itemref idref="x_chapter-043-xhtml" />
+    <itemref idref="x_chapter-044-xhtml" />
+    <itemref idref="x_chapter-045-xhtml" />
+    <itemref idref="x_chapter-046-xhtml" />
+    <itemref idref="x_chapter-047-xhtml" />
+    <itemref idref="x_epilogue-xhtml" />
+    <itemref idref="x_its-over-yo-xhtml" />
+    <itemref idref="x_about-the-author-xhtml" />
+    <itemref idref="x_mailing-list-patreon-xhtml" />
+    <itemref idref="x_also-by-matt-dinniman-xhtml" />
+    <itemref
+      idref="x_the-page-where-we-tout-facebook-groups-so-they-let-us-spam-them-about-this-book-xhtml" />
+    <itemref idref="x_one-more-xhtml" />
+  </spine>
+  <tours>
+  </tours>
+  <guide>
+    <reference type="copyright-page" title="Copyright" href="Text/part0001.xhtml" />
+    <reference type="dedication" title="Dedication" href="Text/part0002.xhtml" />
+    <reference type="epigraph" title="Epigraph" href="Text/part0003.xhtml" />
+    <reference type="other.epilogue" title="Epilogue" href="Text/part0053.xhtml" />
+    <reference type="text" title="Beginning" href="Text/part0004.xhtml" />
+    <reference type="other.titlepage" title="Title Page" href="Text/part0000.xhtml" />
+    <reference type="other.z3998:biographical-note" title="About the Author"
+      href="Text/part0055.xhtml" />
+    <reference type="other.z3998:published-works" title="Also by Matt Dinniman"
+      href="Text/part0057.xhtml" />
+    <reference type="cover" title="Cover" href="Text/cover_page.xhtml" />
+  </guide>
+</package>
